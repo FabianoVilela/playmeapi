@@ -1,2 +1,2 @@
-# playmeapi
-API para criação de playlists
+# Udeme API
+API para gerenciamento de cursos
